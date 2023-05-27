@@ -1,0 +1,15 @@
+2023-05-27 15:34:54  [steps.BookPageSteps] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2023-05-27 15:34:54  [steps.BookPageSteps] (main:) TEST Has Started
+2023-05-27 15:34:54  [steps.BookPageSteps] (main:) Web page is opened
+2023-05-27 15:34:54  [steps.BookPageSteps] (main:) CSV Readed!
+2023-05-27 15:34:54  [steps.BookPageSteps] (main:) Roman searched!
+2023-05-27 15:35:02  [steps.BookPageSteps] (main:) Book is selected
+2023-05-27 15:35:02  [steps.BookPageSteps] (main:) The book added to basket
+2023-05-27 15:35:02  [steps.BookPageSteps] (main:) Basket Count checked again
+2023-05-27 15:35:02  [steps.BookPageSteps] (main:) Hovering to basket icon
+2023-05-27 15:35:06  [steps.BookPageSteps] (main:) Going to basket
+2023-05-27 15:35:06  [steps.BookPageSteps] (main:) Increasing book amount
+2023-05-27 15:35:06  [steps.BookPageSteps] (main:) Refreshing the basket
+2023-05-27 15:35:08  [steps.BookPageSteps] (main:) Checking basket refresh
+2023-05-27 15:35:11  [steps.BookPageSteps] (main:) Removing elements from basket
+2023-05-27 15:35:13  [steps.BookPageSteps] (main:) Checking basket is empty!
